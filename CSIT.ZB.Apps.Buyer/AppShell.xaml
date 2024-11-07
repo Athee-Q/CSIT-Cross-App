@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Shell
+    x:Class="CSIT.ZB.Apps.Buyer.AppShell"
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:login="clr-namespace:CSIT.ZB.Apps.Buyer.Views.Pages.Login"
+    xmlns:Otp="clr-namespace:CSIT.ZB.Apps.Buyer.Views.Pages.OTP"
+    xmlns:home="clr-namespace:CSIT.ZB.Apps.Buyer.Views.Pages.Home"
+    xmlns:cart="clr-namespace:CSIT.ZB.Apps.Buyer.Views.Pages.Cart"
+    xmlns:profile="clr-namespace:CSIT.ZB.Apps.Buyer.Views.Pages.Profile"
+    Shell.FlyoutBehavior="Disabled"
+    Title="CSIT.ZB.Apps.Buyer">
+
+    <ShellContent
+        ContentTemplate="{DataTemplate login:LoginPage}"
+        Route="LoginPage" />
+    <ShellContent
+        ContentTemplate="{DataTemplate Otp:OtpPage}"
+        Route="OtpPage" />
+    <TabBar>
+        <ShellContent
+            Title="Home"
+            ContentTemplate="{DataTemplate home:HomePage}"
+            Route="HomePage" />
+        <ShellContent
+            Title="Cart"
+            ContentTemplate="{DataTemplate cart:CartPage}"
+            Route="CartPage" />
+        <ShellContent
+            Title="Profile"
+            ContentTemplate="{DataTemplate profile:ProfilePage}"
+            Route="ProfilePage" />
+    </TabBar>
+</Shell>

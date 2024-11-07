@@ -1,0 +1,77 @@
+is_global = true
+build_property.EnableAotAnalyzer = 
+build_property.EnableSingleFileAnalyzer = 
+build_property.EnableTrimAnalyzer = false
+build_property.IncludeAllContentForSelfExtract = 
+build_property.TargetFramework = net8.0-maccatalyst
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = CSIT.ZB.Apps.Buyer
+build_property.ProjectDir = C:\Users\atheeq\Desktop\Project\CSIT.ZB.Apps.Buyer\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+
+[C:/Users/atheeq/Desktop/Project/CSIT.ZB.Apps.Buyer/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = CSIT.ZB.Apps.Buyer.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[C:/Users/atheeq/Desktop/Project/CSIT.ZB.Apps.Buyer/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = CSIT.ZB.Apps.Buyer.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[C:/Users/atheeq/Desktop/Project/CSIT.ZB.Apps.Buyer/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = CSIT.ZB.Apps.Buyer.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
+
+[C:/Users/atheeq/Desktop/Project/CSIT.ZB.Apps.Buyer/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = CSIT.ZB.Apps.Buyer.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[C:/Users/atheeq/Desktop/Project/CSIT.ZB.Apps.Buyer/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = CSIT.ZB.Apps.Buyer.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
+
+[C:/Users/atheeq/Desktop/Project/CSIT.ZB.Apps.Buyer/Views/Pages/Cart/CartPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = CSIT.ZB.Apps.Buyer.Views.Pages.Cart.CartPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Pages\Cart\CartPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Pages\Cart\CartPage.xaml
+
+[C:/Users/atheeq/Desktop/Project/CSIT.ZB.Apps.Buyer/Views/Pages/Home/HomePage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = CSIT.ZB.Apps.Buyer.Views.Pages.Home.HomePage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Pages\Home\HomePage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Pages\Home\HomePage.xaml
+
+[C:/Users/atheeq/Desktop/Project/CSIT.ZB.Apps.Buyer/Views/Pages/Login/LoginPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = CSIT.ZB.Apps.Buyer.Views.Pages.Login.LoginPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Pages\Login\LoginPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Pages\Login\LoginPage.xaml
+
+[C:/Users/atheeq/Desktop/Project/CSIT.ZB.Apps.Buyer/Views/Pages/OTP/OtpPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = CSIT.ZB.Apps.Buyer.Views.Pages.OTP.OtpPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Pages\OTP\OtpPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Pages\OTP\OtpPage.xaml
+
+[C:/Users/atheeq/Desktop/Project/CSIT.ZB.Apps.Buyer/Views/Pages/Profile/ProfilePage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = CSIT.ZB.Apps.Buyer.Views.Pages.Profile.ProfilePage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Pages\Profile\ProfilePage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Pages\Profile\ProfilePage.xaml

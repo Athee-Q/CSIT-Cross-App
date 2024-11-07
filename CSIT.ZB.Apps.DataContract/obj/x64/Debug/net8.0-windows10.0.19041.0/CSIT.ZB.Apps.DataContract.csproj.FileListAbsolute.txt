@@ -1,0 +1,12 @@
+C:\Users\atheeq\Desktop\Project\Bin\x64\Debug\net8.0-windows10.0.19041.0\CSIT.ZB.Apps.DataContract.deps.json
+C:\Users\atheeq\Desktop\Project\Bin\x64\Debug\net8.0-windows10.0.19041.0\CSIT.ZB.Apps.DataContract.dll
+C:\Users\atheeq\Desktop\Project\Bin\x64\Debug\net8.0-windows10.0.19041.0\CSIT.ZB.Apps.DataContract.pdb
+C:\Users\atheeq\Desktop\Project\CSIT.ZB.Apps.DataContract\obj\x64\Debug\net8.0-windows10.0.19041.0\CSIT.ZB.Apps.DataContract.csproj.AssemblyReference.cache
+C:\Users\atheeq\Desktop\Project\CSIT.ZB.Apps.DataContract\obj\x64\Debug\net8.0-windows10.0.19041.0\CSIT.ZB.Apps.DataContract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atheeq\Desktop\Project\CSIT.ZB.Apps.DataContract\obj\x64\Debug\net8.0-windows10.0.19041.0\CSIT.ZB.Apps.DataContract.AssemblyInfoInputs.cache
+C:\Users\atheeq\Desktop\Project\CSIT.ZB.Apps.DataContract\obj\x64\Debug\net8.0-windows10.0.19041.0\CSIT.ZB.Apps.DataContract.AssemblyInfo.cs
+C:\Users\atheeq\Desktop\Project\CSIT.ZB.Apps.DataContract\obj\x64\Debug\net8.0-windows10.0.19041.0\CSIT.ZB.Apps.DataContract.csproj.CoreCompileInputs.cache
+C:\Users\atheeq\Desktop\Project\CSIT.ZB.Apps.DataContract\obj\x64\Debug\net8.0-windows10.0.19041.0\CSIT.ZB.Apps.DataContract.dll
+C:\Users\atheeq\Desktop\Project\CSIT.ZB.Apps.DataContract\obj\x64\Debug\net8.0-windows10.0.19041.0\refint\CSIT.ZB.Apps.DataContract.dll
+C:\Users\atheeq\Desktop\Project\CSIT.ZB.Apps.DataContract\obj\x64\Debug\net8.0-windows10.0.19041.0\CSIT.ZB.Apps.DataContract.pdb
+C:\Users\atheeq\Desktop\Project\CSIT.ZB.Apps.DataContract\obj\x64\Debug\net8.0-windows10.0.19041.0\ref\CSIT.ZB.Apps.DataContract.dll

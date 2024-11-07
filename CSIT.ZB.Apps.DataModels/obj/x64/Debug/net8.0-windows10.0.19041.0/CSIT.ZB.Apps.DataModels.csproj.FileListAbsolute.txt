@@ -1,0 +1,12 @@
+C:\Users\atheeq\Desktop\Project\Bin\x64\Debug\net8.0-windows10.0.19041.0\CSIT.ZB.Apps.DataModels.deps.json
+C:\Users\atheeq\Desktop\Project\Bin\x64\Debug\net8.0-windows10.0.19041.0\CSIT.ZB.Apps.DataModels.dll
+C:\Users\atheeq\Desktop\Project\Bin\x64\Debug\net8.0-windows10.0.19041.0\CSIT.ZB.Apps.DataModels.pdb
+C:\Users\atheeq\Desktop\Project\CSIT.ZB.Apps.DataModels\obj\x64\Debug\net8.0-windows10.0.19041.0\CSIT.ZB.Apps.DataModels.csproj.AssemblyReference.cache
+C:\Users\atheeq\Desktop\Project\CSIT.ZB.Apps.DataModels\obj\x64\Debug\net8.0-windows10.0.19041.0\CSIT.ZB.Apps.DataModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atheeq\Desktop\Project\CSIT.ZB.Apps.DataModels\obj\x64\Debug\net8.0-windows10.0.19041.0\CSIT.ZB.Apps.DataModels.AssemblyInfoInputs.cache
+C:\Users\atheeq\Desktop\Project\CSIT.ZB.Apps.DataModels\obj\x64\Debug\net8.0-windows10.0.19041.0\CSIT.ZB.Apps.DataModels.AssemblyInfo.cs
+C:\Users\atheeq\Desktop\Project\CSIT.ZB.Apps.DataModels\obj\x64\Debug\net8.0-windows10.0.19041.0\CSIT.ZB.Apps.DataModels.csproj.CoreCompileInputs.cache
+C:\Users\atheeq\Desktop\Project\CSIT.ZB.Apps.DataModels\obj\x64\Debug\net8.0-windows10.0.19041.0\CSIT.ZB.Apps.DataModels.dll
+C:\Users\atheeq\Desktop\Project\CSIT.ZB.Apps.DataModels\obj\x64\Debug\net8.0-windows10.0.19041.0\refint\CSIT.ZB.Apps.DataModels.dll
+C:\Users\atheeq\Desktop\Project\CSIT.ZB.Apps.DataModels\obj\x64\Debug\net8.0-windows10.0.19041.0\CSIT.ZB.Apps.DataModels.pdb
+C:\Users\atheeq\Desktop\Project\CSIT.ZB.Apps.DataModels\obj\x64\Debug\net8.0-windows10.0.19041.0\ref\CSIT.ZB.Apps.DataModels.dll

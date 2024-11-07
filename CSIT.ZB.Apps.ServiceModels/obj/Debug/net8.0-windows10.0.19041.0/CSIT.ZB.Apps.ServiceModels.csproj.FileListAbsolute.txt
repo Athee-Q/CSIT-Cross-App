@@ -1,0 +1,13 @@
+D:\Project-Sources\CSIT\CSIT.Zero.Book\CSIT.Zero.Book.Apps\CSIT.ZB.Apps.Buyer\Bin\Debug\net8.0-windows10.0.19041.0\CSIT.ZB.Apps.ServiceModels.deps.json
+D:\Project-Sources\CSIT\CSIT.Zero.Book\CSIT.Zero.Book.Apps\CSIT.ZB.Apps.Buyer\Bin\Debug\net8.0-windows10.0.19041.0\CSIT.ZB.Apps.ServiceModels.dll
+D:\Project-Sources\CSIT\CSIT.Zero.Book\CSIT.Zero.Book.Apps\CSIT.ZB.Apps.Buyer\Bin\Debug\net8.0-windows10.0.19041.0\CSIT.ZB.Apps.ServiceModels.pdb
+D:\Project-Sources\CSIT\CSIT.Zero.Book\CSIT.Zero.Book.Apps\CSIT.ZB.Apps.Buyer\CSIT.ZB.Apps.ServiceModels\obj\Debug\net8.0-windows10.0.19041.0\CSIT.ZB.Apps.ServiceModels.csproj.AssemblyReference.cache
+D:\Project-Sources\CSIT\CSIT.Zero.Book\CSIT.Zero.Book.Apps\CSIT.ZB.Apps.Buyer\CSIT.ZB.Apps.ServiceModels\obj\Debug\net8.0-windows10.0.19041.0\CSIT.ZB.Apps.ServiceModels.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project-Sources\CSIT\CSIT.Zero.Book\CSIT.Zero.Book.Apps\CSIT.ZB.Apps.Buyer\CSIT.ZB.Apps.ServiceModels\obj\Debug\net8.0-windows10.0.19041.0\CSIT.ZB.Apps.ServiceModels.AssemblyInfoInputs.cache
+D:\Project-Sources\CSIT\CSIT.Zero.Book\CSIT.Zero.Book.Apps\CSIT.ZB.Apps.Buyer\CSIT.ZB.Apps.ServiceModels\obj\Debug\net8.0-windows10.0.19041.0\CSIT.ZB.Apps.ServiceModels.AssemblyInfo.cs
+D:\Project-Sources\CSIT\CSIT.Zero.Book\CSIT.Zero.Book.Apps\CSIT.ZB.Apps.Buyer\CSIT.ZB.Apps.ServiceModels\obj\Debug\net8.0-windows10.0.19041.0\CSIT.ZB.Apps.ServiceModels.csproj.CoreCompileInputs.cache
+D:\Project-Sources\CSIT\CSIT.Zero.Book\CSIT.Zero.Book.Apps\CSIT.ZB.Apps.Buyer\CSIT.ZB.Apps.ServiceModels\obj\Debug\net8.0-windows10.0.19041.0\CSIT.ZB..019491FA.Up2Date
+D:\Project-Sources\CSIT\CSIT.Zero.Book\CSIT.Zero.Book.Apps\CSIT.ZB.Apps.Buyer\CSIT.ZB.Apps.ServiceModels\obj\Debug\net8.0-windows10.0.19041.0\CSIT.ZB.Apps.ServiceModels.dll
+D:\Project-Sources\CSIT\CSIT.Zero.Book\CSIT.Zero.Book.Apps\CSIT.ZB.Apps.Buyer\CSIT.ZB.Apps.ServiceModels\obj\Debug\net8.0-windows10.0.19041.0\refint\CSIT.ZB.Apps.ServiceModels.dll
+D:\Project-Sources\CSIT\CSIT.Zero.Book\CSIT.Zero.Book.Apps\CSIT.ZB.Apps.Buyer\CSIT.ZB.Apps.ServiceModels\obj\Debug\net8.0-windows10.0.19041.0\CSIT.ZB.Apps.ServiceModels.pdb
+D:\Project-Sources\CSIT\CSIT.Zero.Book\CSIT.Zero.Book.Apps\CSIT.ZB.Apps.Buyer\CSIT.ZB.Apps.ServiceModels\obj\Debug\net8.0-windows10.0.19041.0\ref\CSIT.ZB.Apps.ServiceModels.dll

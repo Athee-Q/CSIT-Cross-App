@@ -1,0 +1,12 @@
+D:\Project-Sources\CSIT\CSIT.Zero.Book\CSIT.Zero.Book.Apps\CSIT.ZB.Apps.Buyer\CSIT.ZB.Apps.Buyer.UI.Test\bin\Debug\net8.0-windows10.0.19041.0\CSIT.ZB.Apps.Buyer.UI.Test.deps.json
+D:\Project-Sources\CSIT\CSIT.Zero.Book\CSIT.Zero.Book.Apps\CSIT.ZB.Apps.Buyer\CSIT.ZB.Apps.Buyer.UI.Test\bin\Debug\net8.0-windows10.0.19041.0\CSIT.ZB.Apps.Buyer.UI.Test.dll
+D:\Project-Sources\CSIT\CSIT.Zero.Book\CSIT.Zero.Book.Apps\CSIT.ZB.Apps.Buyer\CSIT.ZB.Apps.Buyer.UI.Test\bin\Debug\net8.0-windows10.0.19041.0\CSIT.ZB.Apps.Buyer.UI.Test.pdb
+D:\Project-Sources\CSIT\CSIT.Zero.Book\CSIT.Zero.Book.Apps\CSIT.ZB.Apps.Buyer\CSIT.ZB.Apps.Buyer.UI.Test\obj\Debug\net8.0-windows10.0.19041.0\CSIT.ZB.Apps.Buyer.UI.Test.csproj.AssemblyReference.cache
+D:\Project-Sources\CSIT\CSIT.Zero.Book\CSIT.Zero.Book.Apps\CSIT.ZB.Apps.Buyer\CSIT.ZB.Apps.Buyer.UI.Test\obj\Debug\net8.0-windows10.0.19041.0\CSIT.ZB.Apps.Buyer.UI.Test.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project-Sources\CSIT\CSIT.Zero.Book\CSIT.Zero.Book.Apps\CSIT.ZB.Apps.Buyer\CSIT.ZB.Apps.Buyer.UI.Test\obj\Debug\net8.0-windows10.0.19041.0\CSIT.ZB.Apps.Buyer.UI.Test.AssemblyInfoInputs.cache
+D:\Project-Sources\CSIT\CSIT.Zero.Book\CSIT.Zero.Book.Apps\CSIT.ZB.Apps.Buyer\CSIT.ZB.Apps.Buyer.UI.Test\obj\Debug\net8.0-windows10.0.19041.0\CSIT.ZB.Apps.Buyer.UI.Test.AssemblyInfo.cs
+D:\Project-Sources\CSIT\CSIT.Zero.Book\CSIT.Zero.Book.Apps\CSIT.ZB.Apps.Buyer\CSIT.ZB.Apps.Buyer.UI.Test\obj\Debug\net8.0-windows10.0.19041.0\CSIT.ZB.Apps.Buyer.UI.Test.csproj.CoreCompileInputs.cache
+D:\Project-Sources\CSIT\CSIT.Zero.Book\CSIT.Zero.Book.Apps\CSIT.ZB.Apps.Buyer\CSIT.ZB.Apps.Buyer.UI.Test\obj\Debug\net8.0-windows10.0.19041.0\CSIT.ZB.Apps.Buyer.UI.Test.dll
+D:\Project-Sources\CSIT\CSIT.Zero.Book\CSIT.Zero.Book.Apps\CSIT.ZB.Apps.Buyer\CSIT.ZB.Apps.Buyer.UI.Test\obj\Debug\net8.0-windows10.0.19041.0\refint\CSIT.ZB.Apps.Buyer.UI.Test.dll
+D:\Project-Sources\CSIT\CSIT.Zero.Book\CSIT.Zero.Book.Apps\CSIT.ZB.Apps.Buyer\CSIT.ZB.Apps.Buyer.UI.Test\obj\Debug\net8.0-windows10.0.19041.0\CSIT.ZB.Apps.Buyer.UI.Test.pdb
+D:\Project-Sources\CSIT\CSIT.Zero.Book\CSIT.Zero.Book.Apps\CSIT.ZB.Apps.Buyer\CSIT.ZB.Apps.Buyer.UI.Test\obj\Debug\net8.0-windows10.0.19041.0\ref\CSIT.ZB.Apps.Buyer.UI.Test.dll

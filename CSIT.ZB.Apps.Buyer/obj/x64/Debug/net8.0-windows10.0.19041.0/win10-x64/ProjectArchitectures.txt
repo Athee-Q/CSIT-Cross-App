@@ -1,0 +1,13 @@
+C:\Users\atheeq\Desktop\Project\CSIT.ZB.Apps.Buyer\CSIT.ZB.Apps.Buyer.csproj;x64
+C:\Users\atheeq\Desktop\Project\CSIT.ZB.Apps.DataModels\CSIT.ZB.Apps.DataModels.csproj;x64
+C:\Users\atheeq\Desktop\Project\CSIT.ZB.Apps.DataModels\CSIT.ZB.Apps.DataModels.csproj;x64
+C:\Users\atheeq\Desktop\Project\CSIT.ZB.Apps.DataModels\CSIT.ZB.Apps.DataModels.csproj;x64
+C:\Users\atheeq\Desktop\Project\CSIT.ZB.Apps.DataModels\CSIT.ZB.Apps.DataModels.csproj;x64
+C:\Users\atheeq\Desktop\Project\CSIT.ZB.Apps.DataModels\CSIT.ZB.Apps.DataModels.csproj;x64
+C:\Users\atheeq\Desktop\Project\CSIT.ZB.Apps.Repository\CSIT.ZB.Apps.Repository.csproj;x64
+C:\Users\atheeq\Desktop\Project\CSIT.ZB.Apps.Repository\CSIT.ZB.Apps.Repository.csproj;x64
+C:\Users\atheeq\Desktop\Project\CSIT.ZB.Apps.Repository\CSIT.ZB.Apps.Repository.csproj;x64
+C:\Users\atheeq\Desktop\Project\CSIT.ZB.Apps.Repository\CSIT.ZB.Apps.Repository.csproj;x64
+C:\Users\atheeq\Desktop\Project\CSIT.ZB.Apps.ServiceModels\CSIT.ZB.Apps.ServiceModels.csproj;x64
+C:\Users\atheeq\Desktop\Project\CSIT.ZB.Apps.ServiceModels\CSIT.ZB.Apps.ServiceModels.csproj;x64
+C:\Users\atheeq\Desktop\Project\CSIT.ZB.Apps.ViewModels\CSIT.ZB.Apps.ViewModels.csproj;x64

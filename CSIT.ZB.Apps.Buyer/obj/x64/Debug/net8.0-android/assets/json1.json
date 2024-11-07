@@ -1,0 +1,402 @@
+[
+  {
+    "Id": 1,
+    "Name": "Laptop",
+    "Description": "A high-performance laptop for gaming and work.",
+    "ImageUrl": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc/20210828-1/HP_Pavilion_15_2021_01.jpg",
+    "Price": 999.99,
+    "Stock": 25
+  },
+  {
+    "Id": 2,
+    "Name": "Smartphone",
+    "Description": "A latest model smartphone with a high-resolution camera.",
+    "ImageUrl": "https://www.gsmarena.com/imgroot/news/21/06/oneplus-nord-2-review/-727w2/gsmarena_002.jpg",
+    "Price": 499.99,
+    "Stock": 50
+  },
+  {
+    "Id": 3,
+    "Name": "Wireless Mouse",
+    "Description": "A comfortable wireless mouse with ergonomic design.",
+    "ImageUrl": "https://www.techradar.com/images/mt/2021/09/Logitech_G305_Lightspeed_01-870x613.jpg",
+    "Price": 29.99,
+    "Stock": 100
+  },
+  {
+    "Id": 4,
+    "Name": "Bluetooth Headphones",
+    "Description": "Noise-canceling Bluetooth headphones with long battery life.",
+    "ImageUrl": "https://cdn.thewirecutter.com/wp-content/media/2021/12/best-noise-cancelling-headphones-6-1-870x1166.jpg",
+    "Price": 149.99,
+    "Stock": 30
+  },
+  {
+    "Id": 5,
+    "Name": "External SSD",
+    "Description": "A fast external SSD with 1TB storage capacity.",
+    "ImageUrl": "https://www.samsung.com/uk/microsite/external-ssd-t7/images/gallery/t7_black_main.jpg",
+    "Price": 119.99,
+    "Stock": 20
+  },
+  {
+    "Id": 6,
+    "Name": "Keyboard",
+    "Description": "A mechanical keyboard with customizable RGB lighting.",
+    "ImageUrl": "https://www.rocketjumpninja.com/wp-content/uploads/2021/03/Keychron-K6.jpg",
+    "Price": 79.99,
+    "Stock": 40
+  },
+  {
+    "Id": 7,
+    "Name": "Smartwatch",
+    "Description": "A smartwatch with health tracking and notifications.",
+    "ImageUrl": "https://www.techradar.com/images/mt/2021/08/samsung_galaxy_watch4.jpg",
+    "Price": 249.99,
+    "Stock": 15
+  },
+  {
+    "Id": 8,
+    "Name": "Digital Camera",
+    "Description": "A high-resolution digital camera with Wi-Fi connectivity.",
+    "ImageUrl": "https://cdn.cnet.com/img/0jyFwtTOMq0SmoYuZmZTxY8hXZ4nqpO8ejF9vDJ9z4AGxVb5oxvHEoAIqxUoovP9Fh7duLQo7MA0UL-5NqBPc8OCsM62-pOj-J3oaHIZmQARkjufNwA3xH5KzeFHGqP7UvBo.jpg",
+    "Price": 599.99,
+    "Stock": 10
+  },
+  {
+    "Id": 9,
+    "Name": "Tablet",
+    "Description": "A versatile tablet with a high-resolution display.",
+    "ImageUrl": "https://www.techradar.com/images/mt/2022/01/apple_ipad_air_2022.jpg",
+    "Price": 399.99,
+    "Stock": 60
+  },
+  {
+    "Id": 10,
+    "Name": "Printer",
+    "Description": "A multi-function printer with wireless capabilities.",
+    "ImageUrl": "https://www.hp.com/us-en/shop/Html/Static%20Images/inkjet_printer_902.jpg",
+    "Price": 129.99,
+    "Stock": 35
+  },
+  {
+    "Id": 11,
+    "Name": "Monitor",
+    "Description": "A 24-inch monitor with Full HD resolution.",
+    "ImageUrl": "https://www.viewsonic.com/images/products/monitor/VA2419-SH.png",
+    "Price": 159.99,
+    "Stock": 45
+  },
+  {
+    "Id": 12,
+    "Name": "External Hard Drive",
+    "Description": "A 2TB external hard drive with USB 3.0 support.",
+    "ImageUrl": "https://www.seagate.com/www-content/product-content/backup-plus-18-08-01-1.png",
+    "Price": 89.99,
+    "Stock": 25
+  },
+  {
+    "Id": 13,
+    "Name": "Gaming Console",
+    "Description": "A popular gaming console with 4K resolution support.",
+    "ImageUrl": "https://www.theverge.com/e/11730391",
+    "Price": 499.99,
+    "Stock": 20
+  },
+  {
+    "Id": 14,
+    "Name": "Router",
+    "Description": "A high-speed router with extended range.",
+    "ImageUrl": "https://www.tp-link.com/us/app/uploads/2021/10/Archer-AX73.png",
+    "Price": 89.99,
+    "Stock": 30
+  },
+  {
+    "Id": 15,
+    "Name": "Webcam",
+    "Description": "A full HD webcam for video conferencing.",
+    "ImageUrl": "https://cdn.pcgamer.com/2021/10/Logitech_C920_Pro_1.png",
+    "Price": 69.99,
+    "Stock": 40
+  },
+  {
+    "Id": 16,
+    "Name": "Smart Speaker",
+    "Description": "A smart speaker with voice assistant integration.",
+    "ImageUrl": "https://www.amazon.com/images/I/71Xwl64FlQL._AC_SL1500_.jpg",
+    "Price": 99.99,
+    "Stock": 50
+  },
+  {
+    "Id": 17,
+    "Name": "Action Camera",
+    "Description": "A compact action camera with 4K video recording.",
+    "ImageUrl": "https://www.gopro.com/media/gopro_studio_black.jpg",
+    "Price": 299.99,
+    "Stock": 15
+  },
+  {
+    "Id": 18,
+    "Name": "USB Flash Drive",
+    "Description": "A 64GB USB flash drive with fast read/write speeds.",
+    "ImageUrl": "https://www.sandisk.com/content/dam/sandisk/main/usb-flash-drive-image.jpg",
+    "Price": 19.99,
+    "Stock": 100
+  },
+  {
+    "Id": 19,
+    "Name": "Power Bank",
+    "Description": "A portable power bank with 20,000mAh capacity.",
+    "ImageUrl": "https://www.anker.com/images/powerbank.jpg",
+    "Price": 29.99,
+    "Stock": 60
+  },
+  {
+    "Id": 20,
+    "Name": "Gaming Headset",
+    "Description": "A gaming headset with surround sound and a noise-canceling mic.",
+    "ImageUrl": "https://www.razer.com/images/gaming-headset.jpg",
+    "Price": 129.99,
+    "Stock": 25
+  },
+  {
+    "Id": 21,
+    "Name": "Digital Thermometer",
+    "Description": "A digital thermometer with quick and accurate readings.",
+    "ImageUrl": "https://www.thermometer.com/images/digital_thermometer.jpg",
+    "Price": 15.99,
+    "Stock": 75
+  },
+  {
+    "Id": 22,
+    "Name": "Electric Toothbrush",
+    "Description": "An electric toothbrush with multiple brushing modes.",
+    "ImageUrl": "https://www.sonicare.com/images/electric_toothbrush.jpg",
+    "Price": 89.99,
+    "Stock": 40
+  },
+  {
+    "Id": 23,
+    "Name": "Air Purifier",
+    "Description": "An air purifier with HEPA filter for clean air.",
+    "ImageUrl": "https://www.dyson.com/images/air_purifier.jpg",
+    "Price": 249.99,
+    "Stock": 20
+  },
+  {
+    "Id": 24,
+    "Name": "Blender",
+    "Description": "A high-power blender for smoothies and soups.",
+    "ImageUrl": "https://www.vitamix.com/images/blender.jpg",
+    "Price": 149.99,
+    "Stock": 35
+  },
+  {
+    "Id": 25,
+    "Name": "Toaster",
+    "Description": "A 4-slice toaster with adjustable browning control.",
+    "ImageUrl": "https://www.cuisinart.com/images/toaster.jpg",
+    "Price": 59.99,
+    "Stock": 50
+  },
+  {
+    "Id": 26,
+    "Name": "Coffee Maker",
+    "Description": "A programmable coffee maker with a built-in grinder.",
+    "ImageUrl": "https://www.breville.com/images/coffee_maker.jpg",
+    "Price": 199.99,
+    "Stock": 30
+  },
+  {
+    "Id": 27,
+    "Name": "Electric Kettle",
+    "Description": "An electric kettle with rapid boiling capabilities.",
+    "ImageUrl": "https://www.philips.com/images/electric_kettle.jpg",
+    "Price": 49.99,
+    "Stock": 45
+  },
+  {
+    "Id": 28,
+    "Name": "Stand Mixer",
+    "Description": "A stand mixer with multiple speed settings and attachments.",
+    "ImageUrl": "https://www.kitchenaid.com/images/stand_mixer.jpg",
+    "Price": 299.99,
+    "Stock": 20
+  },
+  {
+    "Id": 29,
+    "Name": "Air Fryer",
+    "Description": "An air fryer with digital controls for healthier cooking.",
+    "ImageUrl": "https://www.ninja-kitchen.com/images/air_fryer.jpg",
+    "Price": 129.99,
+    "Stock": 40
+  },
+  {
+    "Id": 30,
+    "Name": "Microwave Oven",
+    "Description": "A compact microwave oven with auto-cook presets.",
+    "ImageUrl": "https://www.panasonic.com/images/microwave_oven.jpg",
+    "Price": 89.99,
+    "Stock": 55
+  },
+  {
+    "Id": 31,
+    "Name": "Dishwasher",
+    "Description": "A built-in dishwasher with energy-efficient features.",
+    "ImageUrl": "https://www.bosch-home.com/images/dishwasher.jpg",
+    "Price": 649.99,
+    "Stock": 15
+  },
+  {
+    "Id": 32,
+    "Name": "Washer Dryer Combo",
+    "Description": "A washer dryer combo with multiple washing programs.",
+    "ImageUrl": "https://www.samsung.com/images/washer_dryer_combo.jpg",
+    "Price": 799.99,
+    "Stock": 10
+  },
+  {
+    "Id": 33,
+    "Name": "Dehumidifier",
+    "Description": "A dehumidifier with adjustable humidity settings.",
+    "ImageUrl": "https://www.honeywell.com/images/dehumidifier.jpg",
+    "Price": 119.99,
+    "Stock": 25
+  },
+  {
+    "Id": 34,
+    "Name": "Heater",
+    "Description": "A portable heater with multiple heat settings.",
+    "ImageUrl": "https://www.dyson.com/images/heater.jpg",
+    "Price": 79.99,
+    "Stock": 30
+  },
+  {
+    "Id": 35,
+    "Name": "Electric Fan",
+    "Description": "A high-efficiency electric fan with oscillation.",
+    "ImageUrl": "https://www.lasko.com/images/electric_fan.jpg",
+    "Price": 39.99,
+    "Stock": 60
+  },
+  {
+    "Id": 36,
+    "Name": "Smart Thermostat",
+    "Description": "A smart thermostat with Wi-Fi connectivity for remote control.",
+    "ImageUrl": "https://www.nest.com/images/smart_thermostat.jpg",
+    "Price": 249.99,
+    "Stock": 20
+  },
+  {
+    "Id": 37,
+    "Name": "Security Camera",
+    "Description": "A security camera with night vision and motion detection.",
+    "ImageUrl": "https://www.arlo.com/images/security_camera.jpg",
+    "Price": 149.99,
+    "Stock": 25
+  },
+  {
+    "Id": 38,
+    "Name": "Smart Lock",
+    "Description": "A smart lock with keyless entry and remote access.",
+    "ImageUrl": "https://www.schlage.com/images/smart_lock.jpg",
+    "Price": 199.99,
+    "Stock": 15
+  },
+  {
+    "Id": 39,
+    "Name": "Robot Vacuum",
+    "Description": "A robot vacuum with automatic dirt detection.",
+    "ImageUrl": "https://www.irobot.com/images/robot_vacuum.jpg",
+    "Price": 299.99,
+    "Stock": 10
+  },
+  {
+    "Id": 40,
+    "Name": "Smart Light Bulb",
+    "Description": "A smart light bulb with adjustable color and brightness.",
+    "ImageUrl": "https://www.philips.com/images/smart_light_bulb.jpg",
+    "Price": 29.99,
+    "Stock": 75
+  },
+  {
+    "Id": 41,
+    "Name": "Electric Grill",
+    "Description": "An electric grill with temperature control and non-stick surface.",
+    "ImageUrl": "https://www.georgeforemangrills.com/images/electric_grill.jpg",
+    "Price": 99.99,
+    "Stock": 35
+  },
+  {
+    "Id": 42,
+    "Name": "Food Processor",
+    "Description": "A food processor with multiple attachments for versatile use.",
+    "ImageUrl": "https://www.cuisinart.com/images/food_processor.jpg",
+    "Price": 129.99,
+    "Stock": 40
+  },
+  {
+    "Id": 43,
+    "Name": "Wine Cooler",
+    "Description": "A wine cooler with adjustable temperature settings.",
+    "ImageUrl": "https://www.ingsok.com/images/wine_cooler.jpg",
+    "Price": 249.99,
+    "Stock": 20
+  },
+  {
+    "Id": 44,
+    "Name": "Electric Shaver",
+    "Description": "An electric shaver with multiple shaving heads and precision trimmer.",
+    "ImageUrl": "https://www.braun.com/images/electric_shaver.jpg",
+    "Price": 89.99,
+    "Stock": 30
+  },
+  {
+    "Id": 45,
+    "Name": "Hair Dryer",
+    "Description": "A hair dryer with multiple heat and speed settings.",
+    "ImageUrl": "https://www.dyson.com/images/hair_dryer.jpg",
+    "Price": 199.99,
+    "Stock": 25
+  },
+  {
+    "Id": 46,
+    "Name": "Iron",
+    "Description": "A steam iron with a ceramic soleplate and variable steam control.",
+    "ImageUrl": "https://www.philips.com/images/iron.jpg",
+    "Price": 59.99,
+    "Stock": 50
+  },
+  {
+    "Id": 47,
+    "Name": "Vacuum Cleaner",
+    "Description": "A vacuum cleaner with HEPA filtration and powerful suction.",
+    "ImageUrl": "https://www.dyson.com/images/vacuum_cleaner.jpg",
+    "Price": 349.99,
+    "Stock": 15
+  },
+  {
+    "Id": 48,
+    "Name": "Smart Plug",
+    "Description": "A smart plug for controlling appliances remotely.",
+    "ImageUrl": "https://www.tp-link.com/images/smart_plug.jpg",
+    "Price": 19.99,
+    "Stock": 100
+  },
+  {
+    "Id": 49,
+    "Name": "Cordless Drill",
+    "Description": "A cordless drill with adjustable speed and multiple drill bits.",
+    "ImageUrl": "https://www.dewalt.com/images/cordless_drill.jpg",
+    "Price": 129.99,
+    "Stock": 30
+  },
+  {
+    "Id": 50,
+    "Name": "Bicycle",
+    "Description": "A mountain bike with front suspension and 21 gears.",
+    "ImageUrl": "https://www.trekbikes.com/images/bicycle.jpg",
+    "Price": 499.99,
+    "Stock": 25
+  }
+]

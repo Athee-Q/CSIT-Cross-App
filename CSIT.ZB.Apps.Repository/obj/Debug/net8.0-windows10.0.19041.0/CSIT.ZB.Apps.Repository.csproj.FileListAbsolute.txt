@@ -1,0 +1,13 @@
+D:\Project-Sources\CSIT\CSIT.Zero.Book\CSIT.Zero.Book.Apps\CSIT.ZB.Apps.Buyer\Bin\Debug\net8.0-windows10.0.19041.0\CSIT.ZB.Apps.Repository.deps.json
+D:\Project-Sources\CSIT\CSIT.Zero.Book\CSIT.Zero.Book.Apps\CSIT.ZB.Apps.Buyer\Bin\Debug\net8.0-windows10.0.19041.0\CSIT.ZB.Apps.Repository.dll
+D:\Project-Sources\CSIT\CSIT.Zero.Book\CSIT.Zero.Book.Apps\CSIT.ZB.Apps.Buyer\Bin\Debug\net8.0-windows10.0.19041.0\CSIT.ZB.Apps.Repository.pdb
+D:\Project-Sources\CSIT\CSIT.Zero.Book\CSIT.Zero.Book.Apps\CSIT.ZB.Apps.Buyer\CSIT.ZB.Apps.Repository\obj\Debug\net8.0-windows10.0.19041.0\CSIT.ZB.Apps.Repository.csproj.AssemblyReference.cache
+D:\Project-Sources\CSIT\CSIT.Zero.Book\CSIT.Zero.Book.Apps\CSIT.ZB.Apps.Buyer\CSIT.ZB.Apps.Repository\obj\Debug\net8.0-windows10.0.19041.0\CSIT.ZB.Apps.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project-Sources\CSIT\CSIT.Zero.Book\CSIT.Zero.Book.Apps\CSIT.ZB.Apps.Buyer\CSIT.ZB.Apps.Repository\obj\Debug\net8.0-windows10.0.19041.0\CSIT.ZB.Apps.Repository.AssemblyInfoInputs.cache
+D:\Project-Sources\CSIT\CSIT.Zero.Book\CSIT.Zero.Book.Apps\CSIT.ZB.Apps.Buyer\CSIT.ZB.Apps.Repository\obj\Debug\net8.0-windows10.0.19041.0\CSIT.ZB.Apps.Repository.AssemblyInfo.cs
+D:\Project-Sources\CSIT\CSIT.Zero.Book\CSIT.Zero.Book.Apps\CSIT.ZB.Apps.Buyer\CSIT.ZB.Apps.Repository\obj\Debug\net8.0-windows10.0.19041.0\CSIT.ZB.Apps.Repository.csproj.CoreCompileInputs.cache
+D:\Project-Sources\CSIT\CSIT.Zero.Book\CSIT.Zero.Book.Apps\CSIT.ZB.Apps.Buyer\CSIT.ZB.Apps.Repository\obj\Debug\net8.0-windows10.0.19041.0\CSIT.ZB..7ECFC143.Up2Date
+D:\Project-Sources\CSIT\CSIT.Zero.Book\CSIT.Zero.Book.Apps\CSIT.ZB.Apps.Buyer\CSIT.ZB.Apps.Repository\obj\Debug\net8.0-windows10.0.19041.0\CSIT.ZB.Apps.Repository.dll
+D:\Project-Sources\CSIT\CSIT.Zero.Book\CSIT.Zero.Book.Apps\CSIT.ZB.Apps.Buyer\CSIT.ZB.Apps.Repository\obj\Debug\net8.0-windows10.0.19041.0\refint\CSIT.ZB.Apps.Repository.dll
+D:\Project-Sources\CSIT\CSIT.Zero.Book\CSIT.Zero.Book.Apps\CSIT.ZB.Apps.Buyer\CSIT.ZB.Apps.Repository\obj\Debug\net8.0-windows10.0.19041.0\CSIT.ZB.Apps.Repository.pdb
+D:\Project-Sources\CSIT\CSIT.Zero.Book\CSIT.Zero.Book.Apps\CSIT.ZB.Apps.Buyer\CSIT.ZB.Apps.Repository\obj\Debug\net8.0-windows10.0.19041.0\ref\CSIT.ZB.Apps.Repository.dll

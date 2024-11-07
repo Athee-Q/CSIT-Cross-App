@@ -1,0 +1,24 @@
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="CSIT.ZB.Apps.Buyer.Views.Pages.Home.HomePage"
+             xmlns:viewmodels="clr-namespace:CSIT.ZB.Apps.ViewModels;assembly=CSIT.ZB.Apps.ViewModels"
+             x:Name="Productshow">
+
+    <StackLayout Padding="10">
+        <Label Text="Products" FontSize="24" HorizontalOptions="Center" />
+
+        <CollectionView ItemsSource="{Binding Products}">
+            <CollectionView.ItemTemplate>
+                <DataTemplate>
+                    <StackLayout Orientation="Horizontal" Padding="5">
+                        <Label Text="{Binding Name}" FontSize="18" WidthRequest="150"/>
+                        <Label Text="{Binding Price, StringFormat='{0:C}'}" FontSize="18" WidthRequest="100"/>
+                        <Button Text="Add to Cart" 
+                                Command="{Binding Path=BindingContext.AddToCartCommand, Source={x:Reference Productshow}}" 
+                                CommandParameter="{Binding}" />
+                    </StackLayout>
+                </DataTemplate>
+            </CollectionView.ItemTemplate>
+        </CollectionView>
+    </StackLayout>
+</ContentPage>

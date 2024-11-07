@@ -1,0 +1,12 @@
+D:\Project-Sources\CSIT\CSIT.Zero.Book\CSIT.Zero.Book.Apps\CSIT.ZB.Apps.Buyer\Bin\Debug\net8.0-windows10.0.19041.0\CSIT.ZB.Apps.DataContract.deps.json
+D:\Project-Sources\CSIT\CSIT.Zero.Book\CSIT.Zero.Book.Apps\CSIT.ZB.Apps.Buyer\Bin\Debug\net8.0-windows10.0.19041.0\CSIT.ZB.Apps.DataContract.dll
+D:\Project-Sources\CSIT\CSIT.Zero.Book\CSIT.Zero.Book.Apps\CSIT.ZB.Apps.Buyer\Bin\Debug\net8.0-windows10.0.19041.0\CSIT.ZB.Apps.DataContract.pdb
+D:\Project-Sources\CSIT\CSIT.Zero.Book\CSIT.Zero.Book.Apps\CSIT.ZB.Apps.Buyer\CSIT.ZB.Apps.DataContract\obj\Debug\net8.0-windows10.0.19041.0\CSIT.ZB.Apps.DataContract.csproj.AssemblyReference.cache
+D:\Project-Sources\CSIT\CSIT.Zero.Book\CSIT.Zero.Book.Apps\CSIT.ZB.Apps.Buyer\CSIT.ZB.Apps.DataContract\obj\Debug\net8.0-windows10.0.19041.0\CSIT.ZB.Apps.DataContract.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project-Sources\CSIT\CSIT.Zero.Book\CSIT.Zero.Book.Apps\CSIT.ZB.Apps.Buyer\CSIT.ZB.Apps.DataContract\obj\Debug\net8.0-windows10.0.19041.0\CSIT.ZB.Apps.DataContract.AssemblyInfoInputs.cache
+D:\Project-Sources\CSIT\CSIT.Zero.Book\CSIT.Zero.Book.Apps\CSIT.ZB.Apps.Buyer\CSIT.ZB.Apps.DataContract\obj\Debug\net8.0-windows10.0.19041.0\CSIT.ZB.Apps.DataContract.AssemblyInfo.cs
+D:\Project-Sources\CSIT\CSIT.Zero.Book\CSIT.Zero.Book.Apps\CSIT.ZB.Apps.Buyer\CSIT.ZB.Apps.DataContract\obj\Debug\net8.0-windows10.0.19041.0\CSIT.ZB.Apps.DataContract.csproj.CoreCompileInputs.cache
+D:\Project-Sources\CSIT\CSIT.Zero.Book\CSIT.Zero.Book.Apps\CSIT.ZB.Apps.Buyer\CSIT.ZB.Apps.DataContract\obj\Debug\net8.0-windows10.0.19041.0\CSIT.ZB.Apps.DataContract.dll
+D:\Project-Sources\CSIT\CSIT.Zero.Book\CSIT.Zero.Book.Apps\CSIT.ZB.Apps.Buyer\CSIT.ZB.Apps.DataContract\obj\Debug\net8.0-windows10.0.19041.0\refint\CSIT.ZB.Apps.DataContract.dll
+D:\Project-Sources\CSIT\CSIT.Zero.Book\CSIT.Zero.Book.Apps\CSIT.ZB.Apps.Buyer\CSIT.ZB.Apps.DataContract\obj\Debug\net8.0-windows10.0.19041.0\CSIT.ZB.Apps.DataContract.pdb
+D:\Project-Sources\CSIT\CSIT.Zero.Book\CSIT.Zero.Book.Apps\CSIT.ZB.Apps.Buyer\CSIT.ZB.Apps.DataContract\obj\Debug\net8.0-windows10.0.19041.0\ref\CSIT.ZB.Apps.DataContract.dll

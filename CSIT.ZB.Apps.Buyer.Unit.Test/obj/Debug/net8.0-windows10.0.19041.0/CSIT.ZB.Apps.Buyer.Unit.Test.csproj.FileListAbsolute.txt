@@ -1,0 +1,12 @@
+D:\Project-Sources\CSIT\CSIT.Zero.Book\CSIT.Zero.Book.Apps\CSIT.ZB.Apps.Buyer\CSIT.ZB.Apps.Buyer.Unit.Test\bin\Debug\net8.0-windows10.0.19041.0\CSIT.ZB.Apps.Buyer.Unit.Test.deps.json
+D:\Project-Sources\CSIT\CSIT.Zero.Book\CSIT.Zero.Book.Apps\CSIT.ZB.Apps.Buyer\CSIT.ZB.Apps.Buyer.Unit.Test\bin\Debug\net8.0-windows10.0.19041.0\CSIT.ZB.Apps.Buyer.Unit.Test.dll
+D:\Project-Sources\CSIT\CSIT.Zero.Book\CSIT.Zero.Book.Apps\CSIT.ZB.Apps.Buyer\CSIT.ZB.Apps.Buyer.Unit.Test\bin\Debug\net8.0-windows10.0.19041.0\CSIT.ZB.Apps.Buyer.Unit.Test.pdb
+D:\Project-Sources\CSIT\CSIT.Zero.Book\CSIT.Zero.Book.Apps\CSIT.ZB.Apps.Buyer\CSIT.ZB.Apps.Buyer.Unit.Test\obj\Debug\net8.0-windows10.0.19041.0\CSIT.ZB.Apps.Buyer.Unit.Test.csproj.AssemblyReference.cache
+D:\Project-Sources\CSIT\CSIT.Zero.Book\CSIT.Zero.Book.Apps\CSIT.ZB.Apps.Buyer\CSIT.ZB.Apps.Buyer.Unit.Test\obj\Debug\net8.0-windows10.0.19041.0\CSIT.ZB.Apps.Buyer.Unit.Test.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project-Sources\CSIT\CSIT.Zero.Book\CSIT.Zero.Book.Apps\CSIT.ZB.Apps.Buyer\CSIT.ZB.Apps.Buyer.Unit.Test\obj\Debug\net8.0-windows10.0.19041.0\CSIT.ZB.Apps.Buyer.Unit.Test.AssemblyInfoInputs.cache
+D:\Project-Sources\CSIT\CSIT.Zero.Book\CSIT.Zero.Book.Apps\CSIT.ZB.Apps.Buyer\CSIT.ZB.Apps.Buyer.Unit.Test\obj\Debug\net8.0-windows10.0.19041.0\CSIT.ZB.Apps.Buyer.Unit.Test.AssemblyInfo.cs
+D:\Project-Sources\CSIT\CSIT.Zero.Book\CSIT.Zero.Book.Apps\CSIT.ZB.Apps.Buyer\CSIT.ZB.Apps.Buyer.Unit.Test\obj\Debug\net8.0-windows10.0.19041.0\CSIT.ZB.Apps.Buyer.Unit.Test.csproj.CoreCompileInputs.cache
+D:\Project-Sources\CSIT\CSIT.Zero.Book\CSIT.Zero.Book.Apps\CSIT.ZB.Apps.Buyer\CSIT.ZB.Apps.Buyer.Unit.Test\obj\Debug\net8.0-windows10.0.19041.0\CSIT.ZB.Apps.Buyer.Unit.Test.dll
+D:\Project-Sources\CSIT\CSIT.Zero.Book\CSIT.Zero.Book.Apps\CSIT.ZB.Apps.Buyer\CSIT.ZB.Apps.Buyer.Unit.Test\obj\Debug\net8.0-windows10.0.19041.0\refint\CSIT.ZB.Apps.Buyer.Unit.Test.dll
+D:\Project-Sources\CSIT\CSIT.Zero.Book\CSIT.Zero.Book.Apps\CSIT.ZB.Apps.Buyer\CSIT.ZB.Apps.Buyer.Unit.Test\obj\Debug\net8.0-windows10.0.19041.0\CSIT.ZB.Apps.Buyer.Unit.Test.pdb
+D:\Project-Sources\CSIT\CSIT.Zero.Book\CSIT.Zero.Book.Apps\CSIT.ZB.Apps.Buyer\CSIT.ZB.Apps.Buyer.Unit.Test\obj\Debug\net8.0-windows10.0.19041.0\ref\CSIT.ZB.Apps.Buyer.Unit.Test.dll

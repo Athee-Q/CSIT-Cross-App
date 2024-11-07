@@ -1,0 +1,7 @@
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="CSIT.ZB.Apps.Buyer.Views.Pages.Profile.ProfilePage">
+    <StackLayout>
+        <Label Text="Profile" FontSize="Large" HorizontalOptions="Center" />
+    </StackLayout>
+</ContentPage>

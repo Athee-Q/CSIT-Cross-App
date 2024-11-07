@@ -1,0 +1,13 @@
+C:\Users\atheeq\Desktop\Project\Bin\x64\Debug\net8.0-windows10.0.19041.0\CSIT.ZB.Apps.ServiceModels.deps.json
+C:\Users\atheeq\Desktop\Project\Bin\x64\Debug\net8.0-windows10.0.19041.0\CSIT.ZB.Apps.ServiceModels.dll
+C:\Users\atheeq\Desktop\Project\Bin\x64\Debug\net8.0-windows10.0.19041.0\CSIT.ZB.Apps.ServiceModels.pdb
+C:\Users\atheeq\Desktop\Project\CSIT.ZB.Apps.ServiceModels\obj\x64\Debug\net8.0-windows10.0.19041.0\CSIT.ZB.Apps.ServiceModels.csproj.AssemblyReference.cache
+C:\Users\atheeq\Desktop\Project\CSIT.ZB.Apps.ServiceModels\obj\x64\Debug\net8.0-windows10.0.19041.0\CSIT.ZB.Apps.ServiceModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atheeq\Desktop\Project\CSIT.ZB.Apps.ServiceModels\obj\x64\Debug\net8.0-windows10.0.19041.0\CSIT.ZB.Apps.ServiceModels.AssemblyInfoInputs.cache
+C:\Users\atheeq\Desktop\Project\CSIT.ZB.Apps.ServiceModels\obj\x64\Debug\net8.0-windows10.0.19041.0\CSIT.ZB.Apps.ServiceModels.AssemblyInfo.cs
+C:\Users\atheeq\Desktop\Project\CSIT.ZB.Apps.ServiceModels\obj\x64\Debug\net8.0-windows10.0.19041.0\CSIT.ZB.Apps.ServiceModels.csproj.CoreCompileInputs.cache
+C:\Users\atheeq\Desktop\Project\CSIT.ZB.Apps.ServiceModels\obj\x64\Debug\net8.0-windows10.0.19041.0\CSIT.ZB..019491FA.Up2Date
+C:\Users\atheeq\Desktop\Project\CSIT.ZB.Apps.ServiceModels\obj\x64\Debug\net8.0-windows10.0.19041.0\CSIT.ZB.Apps.ServiceModels.dll
+C:\Users\atheeq\Desktop\Project\CSIT.ZB.Apps.ServiceModels\obj\x64\Debug\net8.0-windows10.0.19041.0\refint\CSIT.ZB.Apps.ServiceModels.dll
+C:\Users\atheeq\Desktop\Project\CSIT.ZB.Apps.ServiceModels\obj\x64\Debug\net8.0-windows10.0.19041.0\CSIT.ZB.Apps.ServiceModels.pdb
+C:\Users\atheeq\Desktop\Project\CSIT.ZB.Apps.ServiceModels\obj\x64\Debug\net8.0-windows10.0.19041.0\ref\CSIT.ZB.Apps.ServiceModels.dll

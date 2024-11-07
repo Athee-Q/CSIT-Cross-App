@@ -1,0 +1,13 @@
+C:\Users\atheeq\Desktop\Project\CSIT.ZB.Apps.ViewModels\obj\x64\Debug\net8.0-windows10.0.19041.0\CSIT.ZB.Apps.ViewModels.csproj.AssemblyReference.cache
+C:\Users\atheeq\Desktop\Project\CSIT.ZB.Apps.ViewModels\obj\x64\Debug\net8.0-windows10.0.19041.0\CSIT.ZB.Apps.ViewModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atheeq\Desktop\Project\CSIT.ZB.Apps.ViewModels\obj\x64\Debug\net8.0-windows10.0.19041.0\CSIT.ZB.Apps.ViewModels.AssemblyInfoInputs.cache
+C:\Users\atheeq\Desktop\Project\CSIT.ZB.Apps.ViewModels\obj\x64\Debug\net8.0-windows10.0.19041.0\CSIT.ZB.Apps.ViewModels.AssemblyInfo.cs
+C:\Users\atheeq\Desktop\Project\CSIT.ZB.Apps.ViewModels\obj\x64\Debug\net8.0-windows10.0.19041.0\CSIT.ZB.Apps.ViewModels.csproj.CoreCompileInputs.cache
+C:\Users\atheeq\Desktop\Project\Bin\x64\Debug\net8.0-windows10.0.19041.0\CSIT.ZB.Apps.ViewModels.deps.json
+C:\Users\atheeq\Desktop\Project\Bin\x64\Debug\net8.0-windows10.0.19041.0\CSIT.ZB.Apps.ViewModels.dll
+C:\Users\atheeq\Desktop\Project\Bin\x64\Debug\net8.0-windows10.0.19041.0\CSIT.ZB.Apps.ViewModels.pdb
+C:\Users\atheeq\Desktop\Project\CSIT.ZB.Apps.ViewModels\obj\x64\Debug\net8.0-windows10.0.19041.0\CSIT.ZB..897430C2.Up2Date
+C:\Users\atheeq\Desktop\Project\CSIT.ZB.Apps.ViewModels\obj\x64\Debug\net8.0-windows10.0.19041.0\CSIT.ZB.Apps.ViewModels.dll
+C:\Users\atheeq\Desktop\Project\CSIT.ZB.Apps.ViewModels\obj\x64\Debug\net8.0-windows10.0.19041.0\refint\CSIT.ZB.Apps.ViewModels.dll
+C:\Users\atheeq\Desktop\Project\CSIT.ZB.Apps.ViewModels\obj\x64\Debug\net8.0-windows10.0.19041.0\CSIT.ZB.Apps.ViewModels.pdb
+C:\Users\atheeq\Desktop\Project\CSIT.ZB.Apps.ViewModels\obj\x64\Debug\net8.0-windows10.0.19041.0\ref\CSIT.ZB.Apps.ViewModels.dll
